@@ -25,6 +25,7 @@
     "tw-animate-css": "latest"
   },
   "devDependencies": {
+    "@tailwindcss/postcss": "^4.1.18",
     "@types/node": "^22",
     "@types/react": "^19",
     "@types/react-dom": "^19",
